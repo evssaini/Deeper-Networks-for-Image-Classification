@@ -8,3 +8,5 @@ This mini project aims to provide hands on experience in applying such architect
 2.	Utilize the MNIST dataset and an addition dataset, called CIFAR-10, to evaluate the networks.
 3.	Perform and evaluate the classification tasks, including monitoring the training process and quantitatively assessing the results.
 4.	Conduct a critical analysis of the models chosen, based on their architectural principals and experimental performance.
+
+https://medium.com/@ershveers/deeper-networks-for-image-classification-analysis-on-convolutional-neural-network-cnn-40e6437a5406
